@@ -1,0 +1,26 @@
+[
+	{
+		"type": "Undead",
+		"name": "Json1",
+		"power": 20,
+		"hp": 80
+	},
+	{
+		"type": "Barbarian",
+		"name": "Json2",
+		"power": 15,
+		"hp": 100
+	},
+	{
+		"type": "Witcher",
+		"name": "Json3",
+		"power": 17,
+		"hp": 90
+	},
+	{
+		"type": "Undead",
+		"name": "Json4",
+		"power": 25,
+		"hp": 75
+	}
+]
